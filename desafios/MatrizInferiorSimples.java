@@ -1,7 +1,7 @@
 /*
-  Problema: Área Direita
+  Problema: Área Inferior
   Descrição do Problema:
-  Leia um caractere maiúsculo, que indica uma operação que deve ser realizada e uma matriz M[12][12]. Em seguida, calcule e mostre a soma ou a média considerando somente aqueles elementos que estão na área direita da matriz, conforme ilustrado abaixo (área verde). https://prnt.sc/k0z9sf
+  Leia um caractere maiúsculo, que indica uma operação que deve ser realizada e uma matriz M[12][12]. Em seguida, calcule e mostre a soma ou a média considerando somente aqueles elementos que estão na área Inferior da matriz, conforme ilustrado abaixo (área verde). https://prnt.sc/k0z9sf
 
   Entrada
   A primeira linha de entrada contem um único caractere Maiúsculo O ('S' ou 'M'), indicando a operação (Soma ou Média) que deverá ser realizada com os elementos da matriz. Seguem os 144 valores de ponto flutuante que compõem a matriz.
@@ -21,18 +21,18 @@
   7 0 0 0 0 0 0 0 0 0 0 7
   8 0 0 0 0 0 0 0 0 0 0 8
   9 0 0 0 0 0 0 0 0 0 0 9
-  10 0 0 0 0 0 0 0 0 0 0 10
-  11 0 0 0 0 0 0 0 0 0 0 11
-  12 0 0 0 0 0 0 0 0 0 0 12
+  10 8 6 4 2 0 0 2 4 6 8 10
+  11 9 7 5 3 1 1 3 5 7 9 11
+  12 10 8 6 4 2 2 4 6 8 10 12
 
   Dados de Saída:
-  65,0
+  104,0
  */
 
 import java.io.IOException;
 import java.util.Scanner;
 
-public class MatrizDireitaSimples {
+public class MatrizInferiorSimples {
 
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
@@ -46,9 +46,9 @@ public class MatrizDireitaSimples {
             }
         }
 
-        for (int j = 7; j < 12; j++) {
-            for (int i = 1; i < 11; i++) {
-                if ((j - i) > 0 && (j + i) > 11) {
+        for (int i = 7; i < 12; i++) {
+            for (int j = 1; j < 11; j++) {
+                if ((i - j) > 0 && (j + i) > 11) {
                     soma += M[i][j];
                 }
             }
