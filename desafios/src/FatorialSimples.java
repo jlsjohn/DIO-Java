@@ -27,8 +27,7 @@ public class FatorialSimples {
         int fat = 0;
         for(int i=0;i<=N;i++){
             if(i == 0) fat=1;
-            if(i == 1) fat=fat*1;
-            if(i > 1) fat=fat*i;
+            else if(i > 1) fat=fat*i;
         }
         System.out.println(fat);
 
