@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f883182-7ea4-454e-80b0-eb854d0cb237" name="Changes" comment="" />
+    <list default="true" id="8f883182-7ea4-454e-80b0-eb854d0cb237" name="Changes" comment="Reorganizando Projeto" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jonathas &lt;jlsjohn@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1zdVJWUqY4v99jBogi88OAiglb7" />
@@ -27,6 +32,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jonathas.silva\IdeaProjects\DIO-Java\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jonathas.silva\IdeaProjects\DIO-Java\.idea" />
+      <recent name="C:\Users\jonathas.silva\IdeaProjects\DIO-Java" />
     </key>
   </component>
   <component name="RunManager" selected="Application.ConversaoTempo">
@@ -60,6 +69,37 @@
       <option name="presentableId" value="Default" />
       <updated>1634477884086</updated>
     </task>
+    <task id="LOCAL-00001" summary="Reorganizando Projeto">
+      <created>1634479253331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634479253331</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Reorganizando Projeto">
+      <created>1634479328515</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634479328515</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="U" />
+    <MESSAGE value="Reorganizando Projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reorganizando Projeto" />
   </component>
 </project>
