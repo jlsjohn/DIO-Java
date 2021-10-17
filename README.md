@@ -1,2 +1,3 @@
-# digital-innovation-one
-Repositório para compartilhar alguns dos projetos desenvolvidos nos cursos da DIO.
+# DIO-Java
+
+Repositório para compartilhar alguns dos projetos desenvolvidos, em Java, nos cursos da Digital Innovation One.
