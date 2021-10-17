@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f883182-7ea4-454e-80b0-eb854d0cb237" name="Changes" comment="Reorganizando Projeto" />
+    <list default="true" id="8f883182-7ea4-454e-80b0-eb854d0cb237" name="Changes" comment="Reorganizando Projeto">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DIO-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DIO-Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,15 +31,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jonathas.silva\IdeaProjects\DIO-Java\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\jonathas.silva\IdeaProjects\DIO-Java\.idea" />
       <recent name="C:\Users\jonathas.silva\IdeaProjects\DIO-Java" />
+      <recent name="C:\Users\jonathas.silva\IdeaProjects\DIO-Java\desafios" />
+      <recent name="C:\Users\jonathas.silva\IdeaProjects\DIO-Java\.idea" />
     </key>
   </component>
   <component name="RunManager" selected="Application.ConversaoTempo">
@@ -83,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1634479328515</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Reorganizando Projeto">
+      <created>1634479519084</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634479519084</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Reorganizando Projeto">
+      <created>1634479642053</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634479642053</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
